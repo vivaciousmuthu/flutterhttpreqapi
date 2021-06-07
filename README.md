@@ -1,6 +1,6 @@
 # http_req
 
-A new Flutter project.
+I have learned this fetch data from api request in Flutter from Raja Yogan tutorial. At the end, Raja sir asked to do some thing like profile when you tab from list of contact, i have tried to create a iphone call design as much as i can. His way of teaching inspried and impressed to me this a lot. It is very special to me. 
 
 ## Getting Started
 
